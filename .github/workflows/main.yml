@@ -1,0 +1,22 @@
+name: Automatically deploy to server
+on: 
+  push:
+    branches:
+      - 'main'
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    env:
+      version: 1
+    steps:
+    - name: executing remote ssh commands using password
+      uses: appleboy/ssh-action@master
+      env:
+        version: 1
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.KEY }}
+        port: ${{ secrets.PORT }}
+        script: bash /dep/riftmods.sh
