@@ -19,4 +19,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.KEY }}
         port: ${{ secrets.PORT }}
-        script: bash /dep/riftmods.sh
+        script: ${{ secrets.COMMAND }}
