@@ -1,5 +1,5 @@
-### CS:GO Dust
-A remake of GM_Construct using Fortnite assets for 7.30 and 7.40!
+### CS 1.6 Dust
+A port of Dust from the original Counter Strike 1.6, packed with plently of unique features.
 
 Features: 
 - Auto TP To Map
