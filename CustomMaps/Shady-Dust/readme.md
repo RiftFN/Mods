@@ -1,4 +1,4 @@
-### CS:GO Dust
+### CS 1.6 Dust
 A port of Dust from the original Counter Strike 1.6, packed with plently of unique features.
 
 Features: 
