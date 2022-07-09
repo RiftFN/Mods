@@ -8,3 +8,5 @@ The 'Mario Circuit 3' course from the Mario Kart series imported into Fortnite 7
 Tested Versions:
 
 - 7.40
+
+### This map has issues with the lighting, I doubt I'll fix it.
