@@ -9,4 +9,4 @@ Tested Versions:
 
 - 7.40
 
-### This map has issues with the lighting, I doubt I'll fix it.
+This map has issues with the lighting, I doubt I'll fix it.
