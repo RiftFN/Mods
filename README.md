@@ -10,3 +10,5 @@ A vast repository for Rift Mods. Make your contribution!
 - Commit your changes and make a pull request. Your mod will be verified and if everything works, it will be approved.
 
 When your pull request is approved, your mod should appear in the marketplace within 5 minutes.
+
+For any takedown requests go to the Issues tab and submit one under 'Takedown Requests'
