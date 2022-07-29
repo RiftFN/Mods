@@ -1,7 +1,23 @@
---change log--
+**F6 TO OPEN MENU**
 
-[+] better ui
+--**Change Log**--
 
-[+] alot
+[+] Better UI
 
-F6 TO OPEN MENU
+--**Upcoming Changes**--
+
+[+] STW Weapons
+
+[+] Customizable Menu (Colors, etc..)
+
+[+] Teleporting to POIs
+
+[+] Change To UI
+
+--**Things That May Be Added (If Successful)**--
+
+[+] Weapon Creator
+
+[+] Background Music (Only Emotes n MusicPacks) <- Don't think it'll be useful
+
+[+] Weapon Modifier (Weapon Holding)
