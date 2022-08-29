@@ -1,5 +1,5 @@
 # Mods
-A vast repository for Rift Mods. Make your contribution!
+A vast repository for Rift Mods. Make your contribution! (discord.gg/riftfn)
 
 ## How do I contribute?
 - First off, pick a category your mod fits in. Either be CustomMaps, CustomOutfits, or something else. You are allowed to create new categories.
