@@ -13,3 +13,7 @@ A vast repository for Rift Mods. Make your contribution!
 When your pull request is approved, your mod should appear in the marketplace within 5 minutes.
 
 For any takedown requests go to the Issues tab and submit one under 'Takedown Requests'
+
+## Rules of submission
+-The mod that you upload must be owned by you or you must have permission to upload it by the owner of said mod
+-Try your best to fit a mod into the pre-exisiting catagories and if it is really nessacary to create a new one then do so
